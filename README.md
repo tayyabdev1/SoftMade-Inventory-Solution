@@ -1,0 +1,1 @@
+# SoftMade Studio Inventory System A full-stack enterprise inventory solution. Built with React, Node.js, and PostgreSQL.
